@@ -2,7 +2,7 @@
 
 # Wedding Planner Management System
 
-##Overview
+## Overview
 
 The Wedding Planner Management System is a Spring Boot application that helps manage clients, vendors, events, bookings, and payments for wedding planning. The application uses RESTful APIs, with detailed documentation available through Swagger UI for easy testing and integration.
 
